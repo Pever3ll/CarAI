@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1718140271
+::res://::1718222033
 icon.svg::CompressedTexture2D::3860829378403228420::1718134019::1718134028::1::::<><>::
 README.md::TextFile::-1::1718134372::0::1::::<><>::
 ::res://addons/::1718135054
@@ -19,9 +19,10 @@ THIRDPARTY.txt::TextFile::-1::1718135054::0::1::::<><>::
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/::1718135054
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1718135054
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1718135054
-::res://addons/godot-jolt/windows/::1718140265
+::res://addons/godot-jolt/windows/::1718222027
 ::res://assets/::1718135068
-::res://scenes/::1718140198
-game.tscn::PackedScene::1652033496530240610::1718139504::0::1::::<><>::uid://douf6coesjjjs::::res://scenes/player.tscn
-player.tscn::PackedScene::8183552488547958480::1718139504::0::1::::<><>::
-::res://scripts/::1718140204
+::res://scenes/::1718141477
+game.tscn::PackedScene::1652033496530240610::1718141477::0::1::::<><>::res://scripts/Camera3D.gd<>uid://douf6coesjjjs::::res://scenes/player.tscn
+player.tscn::PackedScene::8183552488547958480::1718141477::0::1::::<><>::
+::res://scripts/::1718141476
+Camera3D.gd::GDScript::-1::1718141476::0::1::::<>Camera3D<>::
