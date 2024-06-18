@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1718222033
+::res://::1718699315
 icon.svg::CompressedTexture2D::3860829378403228420::1718134019::1718134028::1::::<><>::
 README.md::TextFile::-1::1718134372::0::1::::<><>::
-::res://addons/::1718135054
+::res://addons/::1718223899
 ::res://addons/godot-jolt/::1718135054
 godot-jolt.gdextension::GDExtension::-1::1718135054::0::1::::<><>::
 LICENSE.txt::TextFile::-1::1718135054::0::1::::<><>::
@@ -19,10 +19,14 @@ THIRDPARTY.txt::TextFile::-1::1718135054::0::1::::<><>::
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/::1718135054
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1718135054
 ::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1718135054
-::res://addons/godot-jolt/windows/::1718222027
-::res://assets/::1718135068
-::res://scenes/::1718141477
-game.tscn::PackedScene::1652033496530240610::1718141477::0::1::::<><>::res://scripts/Camera3D.gd<>uid://douf6coesjjjs::::res://scenes/player.tscn
-player.tscn::PackedScene::8183552488547958480::1718141477::0::1::::<><>::
-::res://scripts/::1718141476
-Camera3D.gd::GDScript::-1::1718141476::0::1::::<>Camera3D<>::
+::res://addons/godot-jolt/windows/::1718696687
+::res://assets/::1718697195
+Standard.dae::PackedScene::877102231447251794::1718697158::1718697195::1::::<><>::
+Standard.obj::Mesh::886685816952292892::1718697113::1718697195::1::::<><>::
+::res://assets/Tire/::1718696874
+1365 Tire.obj::Mesh::7589433402164541460::1718696874::1718696874::1::::<><>::uid://c0ngdcre0egsf::::res://assets/Tire/1365 Tire.png
+1365 Tire.png::CompressedTexture2D::6554769160001792497::1718696874::1718696874::1::::<><>::
+::res://scenes/::1718699314
+car.gd::GDScript::-1::1718227639::0::1::::<>RigidBody3D<>::
+game.tscn::PackedScene::1652033496530240610::1718699317::0::1::::<><>::uid://douf6coesjjjs::::res://scenes/player.tscn
+player.tscn::PackedScene::8183552488547958480::1718699314::0::1::::<><>::res://scenes/car.gd<>uid://mvrt6iugkoqu::::res://assets/Standard.obj<>uid://dgem4hmcjjioa::::res://assets/Tire/1365 Tire.obj
